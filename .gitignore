@@ -1,0 +1,11 @@
+# Environment variables and configuration files
+.env
+
+# API keys and credentials
+*.key
+credentials.json
+secrets.json
+
+# Personal notes and documentation
+notes.md
+notes.ipynb
